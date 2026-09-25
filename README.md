@@ -71,8 +71,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishmaurya57&show_icons=true&theme=tokyonight&hide_border=true" alt="Ashish's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishmaurya57&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ashishmaurya57&show_icons=true&theme=tokyonight&hide_border=true" alt="Ashish's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishmaurya57&theme=tokyonight&hide_border=true" alt="Ashish's Streak" />
 </p>
 
 ---
